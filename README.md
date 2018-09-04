@@ -1,4 +1,4 @@
-# VPN for windows
+# VPN for Windows
 
 ## Requirements
 - [OpenVPN GUI](https://openvpn.net/index.php/open-source/downloads.html)
