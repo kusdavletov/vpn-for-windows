@@ -1,4 +1,4 @@
-# vpn for windows
+# VPN for windows
 
 ## Requirements
 - [OpenVPN GUI](https://openvpn.net/index.php/open-source/downloads.html)
@@ -6,3 +6,5 @@
 
 ## How to run
 Just run `python3 vpn.py [country name]` with **admin rights**, that's all!
+
+Also see [VPN for Ubuntu](https://github.com/kusdavletov/vpn-for-ubuntu)
